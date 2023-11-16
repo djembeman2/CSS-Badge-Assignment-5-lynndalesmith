@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <title> Lynndale Smith </title>
+    
+    </head>
+  
+    <h1> Best Damn Chickien  </h1>
+
+  <a href="index.html">
+    Home
+  </a>
+
+
+  <a href="menu.html">
+    Menu
+  
+  </a>
+
+
+  <a href="about.html">
+   About
+  </a>
+
+  
+    <body>
+      
+      <img src="https://www.foodandwine.com/thmb/JvZKHzwU7bkJFUrU4-1g0Xyz7Bw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-crispy-buttermilk-fried-chicken-hero-01-3ccf6b983f47453192382073464fa7a5.jpg"</img>
+      
+    
+    </body>
+  
+  </head>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ecommerce Website</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello World
+  <header></header>
+  <main></main>
+  <footer></footer>
+
+
+
+</body>
+
+</html>

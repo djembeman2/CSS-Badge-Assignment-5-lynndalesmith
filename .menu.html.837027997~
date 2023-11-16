@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <a href=iindex.html">
+      Home
+    </a>
+
+      <a href="about.html">
+        About
+        </a>
+
+    <a href="menu.html">
+    Menu
+
+  
+    <body> </body>
+  </head>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ecommerce Website</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello World
+  <header></header>
+  <main></main>
+  <footer></footer>
+
+
+
+</body>
+
+</html>
