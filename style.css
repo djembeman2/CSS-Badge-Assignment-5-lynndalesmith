@@ -31,14 +31,25 @@ h1 {
   margin: 3px;
   font-family: Arial, sans-serif;
 }
+
+/* unvisited link */
 a:link {
   color: lightsalmon;
 }
+
+/* visited link */
 a:visited {
   color: lightcoral;
 }
+
+/* mouse over link */
 a:hover {
   color: lightgoldenrodyellow;
+}
+
+/* selected link */
+a:active {
+  color: cornflowerblue;
 }
 
 /* Nice work on the table! */
@@ -65,7 +76,7 @@ footer {
 
 header {
   /* Added header style */
-  background-color: ;
+  background-color: aliceblue;
   padding: 10px;
   text-align: center;
 }
