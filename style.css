@@ -4,7 +4,9 @@ html {
 }
 
 .hero {
-  background-image: img("https://www.foodandwine.com/thmb/JvZKHzwU7bkJFUrU4-1g0Xyz7Bw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-crispy-buttermilk-fried-chicken-hero-01-3ccf6b983f47453192382073464fa7a5.jpg");
+  background-image: img(
+    "https://www.foodandwine.com/thmb/JvZKHzwU7bkJFUrU4-1g0Xyz7Bw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-crispy-buttermilk-fried-chicken-hero-01-3ccf6b983f47453192382073464fa7a5.jpg"
+  );
   padding: 20px;
 }
 
@@ -14,33 +16,33 @@ html {
   margin: auto;
 }
 
-head{
+head {
   /* You don't need a # on greenyellow. */
   /* You only need them for hex codes like: #00f213 */
   background-color: greenyellow;
   padding: 20px;
 }
 body {
-  background-color:#423b0b; /* Olive Green */
+  background-color: #423b0b; /* Olive Green */
 }
 
 h1 {
   background-color: lightcyan;
   margin: 3px;
-    font-family: Arial, sans-serif;
-  }
-a:link{
+  font-family: Arial, sans-serif;
+}
+a:link {
   color: lightsalmon;
 }
-a:visited{
+a:visited {
   color: lightcoral;
 }
-  a:hover{
+a:hover {
   color: lightgoldenrodyellow;
 }
 
 /* Nice work on the table! */
-tr{
+tr {
   border: 5px solid red;
   background-color: #d6d6d6;
 }
@@ -49,6 +51,8 @@ table {
   border-collapse: collapse;
   border: 5px solid blue;
   background-color: lavender;
+  width: 80%;
+  margin: auto;
 }
 
 footer {
@@ -56,12 +60,12 @@ footer {
   background-color: #d6d;
   text-align: center;
   padding: 10px;
-  margin:auto
+  margin: auto;
 }
 
-header
-{ /* Added header style */
-  background-color:;
+header {
+  /* Added header style */
+  background-color: ;
   padding: 10px;
   text-align: center;
 }
