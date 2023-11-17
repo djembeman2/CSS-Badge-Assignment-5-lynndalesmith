@@ -28,16 +28,28 @@ h1 {
   background-color: lightcyan;
   margin: 3px;
     font-family: Arial, sans-serif;
-  }
-a:link{
+}
+
+/* unvisited link */
+a:link {
   color: lightsalmon;
 }
-a:visited{
+
+/* visited link */
+a:visited {
   color: lightcoral;
 }
-  a:hover{
+
+/* mouse over link */
+a:hover {
   color: lightgoldenrodyellow;
 }
+
+/* selected link */
+a:active {
+  color: cornflowerblue;
+}
+
 
 /* Nice work on the table! */
 tr{
