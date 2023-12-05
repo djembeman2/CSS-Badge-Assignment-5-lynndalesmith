@@ -10,7 +10,7 @@
 
 <p> The plan for the website with CSS is based on this wireframe.</p>
 
-<img title="Wireframe for site with CSS." src="docs/Best Damn Chicken.jpg">
+<img title="Wireframe for site with CSS." src="jpg/Best Damn Chicken.jpg">
 
 <h2>Technology used</h2>
 
