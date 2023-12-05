@@ -21,7 +21,7 @@ head{
   padding: 20px;
 }
 body {
-  background-color:#423b0b; /* Olive Green */
+  background-color: gainsboro; /* Olive Green */
 }
 
 h1 {
@@ -41,14 +41,23 @@ a:visited{
 
 /* Nice work on the table! */
 tr{
-  border: 5px solid red;
+  border: 5px solid darkgoldenrod;
   background-color: #d6d6d6;
+  padding: 5px;
 }
 
-table {
-  border-collapse: collapse;
-  border: 5px solid blue;
-  background-color: lavender;
+nav table {
+ width: 70%;
+  vertical-align: bottom;
+  border: 5px solid rebeccapurple;
+  background-color: indianred;
+  margin: auto;
+}
+th {
+  height: 100px;
+}
+tr{
+  height: 40px;
 }
 
 footer {
@@ -65,14 +74,37 @@ header
   padding: 10px;
   text-align: center;
 }
+
 p {
   font-size: 16px;
   font-family: italic;
-  background-color: lightgoldenrodyellow;
+  background-color: grey;
+  padding: 20px;
+  margin: auto;
 }
 
 .ms-1 {
-  margin-auto: 5px;
+  margin: auto; 5px;
 }
 
 /* Careful of the AI!! This might not work. */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
