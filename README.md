@@ -1,7 +1,3 @@
-# CSS-Badge-Assignment-5-lynndalesmith
-this was my assginment css badge 5 I still have small edits but pretty much complete 
-
-
 <h1>Demo website for Best Damn Chicken</h1>
 
 <h2>About</h2>
@@ -14,7 +10,7 @@ this was my assginment css badge 5 I still have small edits but pretty much comp
 
 <p> The plan for the website with CSS is based on this wireframe.</p>
 
-<img title="Wireframe for site with CSS." src="docs/willie.png">
+<img title="Wireframe for site with CSS." src="docs/Best Damn Chicken.jpg">
 
 <h2>Technology used</h2>
 
